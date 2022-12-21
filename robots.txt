@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://soscler.github.io/sitemap.xml
