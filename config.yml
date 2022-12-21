@@ -1,0 +1,127 @@
+baseURL: 'https://soscler.github.io'
+languageCode: 'en-us'
+title: "It's Osler"
+author: "Chriss Santi"
+theme: 'PaperMod'
+
+menu:
+  main:
+    - identifier: About Me
+      name: About me
+      url: /posts/about-me/
+      weight: 10
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: WiKi
+                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+                - name: Discord
+                  url: https://discord.gg/ahpmTvhVmp
+
+    fr:
+        languageName: ":fr:"
+        languageAltTitle: French
+        weight: 2
+        title: PaperModL2
+        taxonomies:
+          category: FRcategories
+          tag: FRtags
+          series: FRseries
+        profileMode:
+            enabled: true
+            title: PaperMod
+            imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
+            imageTitle: ProfileMode image
+            # imageWidth: 120
+            # imageHeight: 120
+            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            buttons:
+                - name: Blog
+                  url: posts
+                - name: Profile Mode
+                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+        menu:
+            main:
+                - name: Archive
+                  url: archives/
+                  weight: 5
+                - name: FRTags
+                  url: frtags
+                  weight: 10
+                - name: FRCategories
+                  url: frcategories
+                  weight: 10
+                - name: FRSeries
+                  url: frseries
+                  weight: 10
+                - name: NullLink
+                  url: "#"
+
+    fa:
+        languagedirection: rtl
+        weight: 3
+        title: PaperMod RTL
+        homeInfoParams:
+            Title: "Hi there \U0001F44B"
+            Content: Welcome to RTL layout
+        taxonomies:
+          category: FAcategories
+          tag: FAtags
+          series: FAseries
+        menu:
+            main:
+                - name: FATags
+                  url: fatags
+                  weight: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    description: "My personal web site"
+    author: "Chriss Santi"
+
+    defaultTheme: auto
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: true
+    ShowToc: true
+
+    homeInfoParams:
+        Title: "Chriss Santi"
+        Content: >
+            Welcome to my web site. I talk about random stuff
