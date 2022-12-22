@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Books on It&#39;s Osler</title>
+    <link>https://soscler.github.io/books/</link>
+    <description>Recent content in Books on It&#39;s Osler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Dec 2022 23:52:44 +0100</lastBuildDate><atom:link href="https://soscler.github.io/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book I Have Read</title>
+      <link>https://soscler.github.io/books/book-i-have-read/</link>
+      <pubDate>Wed, 21 Dec 2022 23:52:44 +0100</pubDate>
+      
+      <guid>https://soscler.github.io/books/book-i-have-read/</guid>
+      <description>Here is a list of books that I have read and liked.
+Books from Ted Chiang The Merchant and the Alchemist&amp;rsquo;s
+Exhalation
+The Lifecycle of Software Objects
+The Great Silence
+Anxiety is the Dizziness of Freedom
+Tower of Babylone
+Understand
+Division by Zero
+Story of Your Life
+Hell is the Absence of God
+I enjoy reading Ted Chiang a lot, maybe I get that from liking tech related stuff. Ted Chiang likes to take his inspiration from Scientific Topics, and most usually come from complex ones.</description>
+    </item>
+    
+  </channel>
+</rss>

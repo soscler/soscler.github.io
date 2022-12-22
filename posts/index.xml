@@ -6,7 +6,7 @@
     <description>Recent content in Posts on It&#39;s Osler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Dec 2022 22:57:09 +0100</lastBuildDate><atom:link href="https://soscler.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 00:45:06 +0100</lastBuildDate><atom:link href="https://soscler.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://soscler.github.io/posts/about-me/</link>
@@ -14,6 +14,24 @@
       
       <guid>https://soscler.github.io/posts/about-me/</guid>
       <description>Take a glimpse in my childhood!</description>
+    </item>
+    
+    <item>
+      <title>Why Soscler?</title>
+      <link>https://soscler.github.io/posts/why-soscler/</link>
+      <pubDate>Wed, 21 Dec 2022 20:28:52 +0100</pubDate>
+      
+      <guid>https://soscler.github.io/posts/why-soscler/</guid>
+      <description>The reason of using soscler as a nickname</description>
+    </item>
+    
+    <item>
+      <title>What Did I Like at School</title>
+      <link>https://soscler.github.io/posts/what-did-i-like-at-school/</link>
+      <pubDate>Thu, 22 Dec 2022 00:45:06 +0100</pubDate>
+      
+      <guid>https://soscler.github.io/posts/what-did-i-like-at-school/</guid>
+      <description>Not study, not books, but people and playing</description>
     </item>
     
   </channel>

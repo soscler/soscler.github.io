@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>school on It&#39;s Osler</title>
+    <link>https://soscler.github.io/tags/school/</link>
+    <description>Recent content in school on It&#39;s Osler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Dec 2022 00:45:06 +0100</lastBuildDate><atom:link href="https://soscler.github.io/tags/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Did I Like at School</title>
+      <link>https://soscler.github.io/posts/what-did-i-like-at-school/</link>
+      <pubDate>Thu, 22 Dec 2022 00:45:06 +0100</pubDate>
+      
+      <guid>https://soscler.github.io/posts/what-did-i-like-at-school/</guid>
+      <description>Not study, not books, but people and playing</description>
+    </item>
+    
+  </channel>
+</rss>
