@@ -1,0 +1,10 @@
+<div class="container">
+    {{.Inner}}
+
+    {{ $data := .Site.Data.photos.shot.bridges }}
+
+    {{ range $elem_index, $elem_val := $data.data }}
+    <img src="{{$data.folder}}/{{$elem_val.id}}" />
+    {{ end }}
+
+</div>

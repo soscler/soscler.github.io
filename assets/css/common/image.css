@@ -1,0 +1,13 @@
+img {
+    border-radius: 50%;
+    border-color: red;
+    border-width: 5px;
+    width: 500px;
+    cursor: pointer;
+    filter: grayscale();
+    display: flex;
+}
+
+img:hover {
+    filter: grayscale(0);
+}
